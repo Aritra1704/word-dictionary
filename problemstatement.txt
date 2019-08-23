@@ -1,0 +1,5 @@
+Write a program to create and use a word dictionary. The key functionalities would include
+
+API to create and persist a word dictionary by uploading a text file having few paragraphs (file Size Max: 200 MB).
+User should be able to search if a given word is available in the dictionary
+Creation of UI is optional
